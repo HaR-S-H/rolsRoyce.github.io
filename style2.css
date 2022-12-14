@@ -82,13 +82,13 @@ background-color: #fff;
 padding: 14px 70px;
 transition: 0.5s;
 }
-.time { background-image: url("phantom2.png");
+.time {
  background-size: cover;
  width: 100%;
  min-height: 100vh;    
  background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
  font-family: 'poppins','sans-serif';
- 
+ background-image: url("phantom2.png");
  border-radius: 34px;
 }
 p{font-family: 'poppins','sans-serif';
