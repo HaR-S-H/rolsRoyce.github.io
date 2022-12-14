@@ -82,7 +82,7 @@ background-color: #fff;
 padding: 14px 70px;
 transition: 0.5s;
 }
-.time {background-image: url("phantom2.png");
+.time {
  background-size: cover;
  width: 100%;
  min-height: 100vh;    
